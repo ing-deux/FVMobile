@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_down_book" type="drawable">@drawable/ic_file_download</item>
+    <item name="ic_search_search" type="drawable">@drawable/ic_search</item>
+    <item name="ic_down" type="drawable">@drawable/ic_file_download_white_24dp</item>
+    <item name="ic_refresh" type="drawable">@drawable/ic_refresh_white_24dp</item>
+    <item name="ic_view_white" type="drawable">@drawable/ic_view</item>
+    <item name="ic_login" type="drawable">@drawable/ic_login_black</item>
+    <item name="ic_home" type="drawable">@drawable/ic_home_black</item>
+    <item name="ic_new" type="drawable">@drawable/ic_new_black</item>
+</resources>
